@@ -17,3 +17,5 @@ namespace TrackerLibrary
         }
     }
 }
+
+//Text Connection
