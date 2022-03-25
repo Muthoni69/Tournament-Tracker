@@ -11,3 +11,5 @@ namespace TrackerLibrary
         PrizeModel CreatePrize(PrizeModel model);
     }
 }
+
+//Interface
