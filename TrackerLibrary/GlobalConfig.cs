@@ -28,3 +28,5 @@ namespace TrackerLibrary
         }
     }
 }
+
+//Global Config
