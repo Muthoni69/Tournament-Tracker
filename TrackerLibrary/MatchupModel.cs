@@ -24,3 +24,5 @@ namespace TrackerLibrary
         public int MatchupRound { get; set; }
     }
 }
+
+//MatchUpModel
