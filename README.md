@@ -1,3 +1,3 @@
-# Tournament Tracker
+feat: C# Tournament Tracker
 
-C# Tournament Tracker Application
+Extra code for building the Tournament Tracker Application
